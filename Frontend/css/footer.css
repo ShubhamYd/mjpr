@@ -1,0 +1,58 @@
+.footer{
+  
+  min-width: 100%;
+  position: relative;
+  margin: auto;
+  display: flex;
+  background-color: green;
+  float: left;
+  height: auto;
+}
+.arima{
+  width: 40%;
+  border: 2px solid black;
+  margin: 10px;
+  height: auto;
+  text-align: center;
+  float: left;
+}
+.arima div {
+  width: 48%;
+  float: left;
+  border: 2px solid black;
+  margin: 1%;
+}
+
+.lstmdata{
+  width: 45%;
+  height: auto;
+  background-color: #f1f1f1;
+  text-align: center;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+.lstmdata div {
+  width: 48%;
+  float: left;
+  border: 2px solid black;
+  margin: 1%;
+}
+
+.topnews{
+  max-width:27%;
+  
+}
+
+.options{
+  text-align: center;
+  width: 100%;
+  background-color: #009999; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
